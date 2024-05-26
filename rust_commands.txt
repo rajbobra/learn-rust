@@ -1,0 +1,7 @@
+cargo new - create new project
+cargo build - Build Project Executable
+cargo run - Build and Run Project in one step
+cargo check - Builds project, compiles and check for errors but does not produce Executable
+Note: Build stores the Executable under ./target/debug directory
+
+cargo build --release - Compiles it with optimizations and stores under ./target/release
