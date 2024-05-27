@@ -1,1 +1,1 @@
-Trying my hand on rust for the first time! This repo contains exercises, code snippets and some notes that I am making to learn rust!!
+Trying my hand on rust for the first time! This repo contains exercises, code snippets and some notes that I am making to learn rust!! Using this as a starting point to learn rust as I plan to implement the solution to the coding challenge at https://codingchallenges.fyi/challenges/challenge-redis in rust.
